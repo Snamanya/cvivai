@@ -1,0 +1,7 @@
+{
+  "name": "Azure Horizon Luxury Hotel",
+  "description": "A premium, modern hotel experience with AI-powered concierge services, seamless booking, and high-end restaurant menu showcasing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
